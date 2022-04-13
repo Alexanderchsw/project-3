@@ -1,0 +1,63 @@
+body {
+    position: relative;
+    margin: 0;
+    font-family: Times, Times New Roman, serif;
+    font-size:20px;
+    line-height: 32px;
+    color: #ffffff;
+    background-color: #FFFFFF;
+    background-image: url(files/site5.jpg);
+    background-position: center;
+}
+header {
+    text-align: center;
+    margin: 0px;
+    padding: 30px;
+    line-height: 30px;
+    color: #808080;
+	font-size:50px;
+	vertical-align: bottom;
+	font-family: Impact, fantasy;
+	font-weight: bold;
+}
+	
+
+
+h1{
+	font-family: Impact, fantasy;
+	text-align: center;
+	color: #808080;
+}
+p{
+	margin: 11px 222px;
+}
+.sod{
+	margin: 11px 222px;
+	font-size:27px;
+	color:#FFE4E1;
+	font-weight: 900;
+}
+ol,ul{
+	color:#FFE4E1;
+	margin: 11px 222px;
+}
+.preim{
+	margin: 35px 222px 35px 222px;
+}
+
+.footer-email {
+  padding-left:1060px;
+  font-family: Impact, fantasy;
+  color: #808080;
+  text-decoration: none;
+}
+
+.footer-phone {
+  padding-left:1px;
+   font-family: Impact, fantasy;
+  color: #808080;
+  text-decoration: none;
+}
+
+
+
